@@ -10,6 +10,7 @@ public class MoveScript : MonoBehaviour
     void Start()
     {
         Debug.Log(message: "Hello World!");
+        
     }
 
     // Update is called once per frame

@@ -4,12 +4,13 @@ using UnityEngine;
 
 public class PlayerPoints : MonoBehaviour
 {
-    public string pointsTotal = "500";
+    
     // Start is called before the first frame update
     void Start()
     {
-
-    
+        
+        Debug.Log("High Score =");
+        Debug.Log("Personal Best =");
 }
 
     // Update is called once per frame

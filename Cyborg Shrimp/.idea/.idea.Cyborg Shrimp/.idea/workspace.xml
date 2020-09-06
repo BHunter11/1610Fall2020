@@ -19,7 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d9e3a2b-0acf-4203-8880-28a9bc2dbbbe" name="Default Changelist" comment="" />
+    <list default="true" id="5d9e3a2b-0acf-4203-8880-28a9bc2dbbbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterName.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StartScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Cyborg Shrimp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cyborg Shrimp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NumberData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NumberData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerPoints.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerPoints.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +42,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterName.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerPoints.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartScript.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -39,8 +52,10 @@
         <option value="$PROJECT_DIR$/Assets/MoverScript.cs" />
         <option value="$PROJECT_DIR$/Assets/NumberData.cs" />
         <option value="$PROJECT_DIR$/Assets/MoveScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterName.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerPoints.cs" />
       </list>
     </option>
@@ -82,7 +97,7 @@
       <workItem from="1599021081933" duration="18000" />
       <workItem from="1599021312426" duration="455000" />
       <workItem from="1599021839061" duration="458000" />
-      <workItem from="1599023731984" duration="2706000" />
+      <workItem from="1599023731984" duration="6014000" />
     </task>
     <servers />
   </component>
@@ -108,11 +123,12 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="188" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599022000805">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state x="188" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599284906323">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
     <state x="188" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.835@0.23.1440.835" timestamp="1599022000805" />
     <state x="188" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.836@0.23.1440.836" timestamp="1599021797991" />
+    <state x="188" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.839@0.23.1440.839" timestamp="1599284906323" />
     <state width="885" height="280" key="GridCell.Tab.0.bottom" timestamp="1599168957862">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
@@ -182,5 +198,9 @@
     </state>
     <state x="241" y="97" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1599024176170" />
     <state x="241" y="97" key="SettingsEditor/0.23.1440.835@0.23.1440.835" timestamp="1599021966214" />
+    <state x="266" y="126" width="727" height="596" key="VCS.FileHistoryDialog" timestamp="1599288666604">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="266" y="126" width="727" height="596" key="VCS.FileHistoryDialog/0.23.1440.839@0.23.1440.839" timestamp="1599288666604" />
   </component>
 </project>

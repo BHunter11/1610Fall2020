@@ -5,6 +5,8 @@ using UnityEngine;
 public class PlayerHealth : MonoBehaviour
 {
     public float health = 100f;
+
+    public float healthLoss = 10f;
     // Start is called before the first frame update
     void Start()
     {

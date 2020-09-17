@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d9e3a2b-0acf-4203-8880-28a9bc2dbbbe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Cyborg Shrimp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Cyborg Shrimp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +92,7 @@
       <workItem from="1599021312426" duration="455000" />
       <workItem from="1599021839061" duration="458000" />
       <workItem from="1599023731984" duration="6167000" />
-      <workItem from="1599803501877" duration="192000" />
+      <workItem from="1599803501877" duration="565000" />
     </task>
     <servers />
   </component>

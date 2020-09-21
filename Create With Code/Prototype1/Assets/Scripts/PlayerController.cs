@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+    public float speed = 5.0f;
     void Update()
     {
         // Move the vehicle forward

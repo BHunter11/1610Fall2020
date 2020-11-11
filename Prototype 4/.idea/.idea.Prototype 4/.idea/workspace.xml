@@ -20,24 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afc4467f-8640-4c19-8854-99abf63e19cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 4/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 4/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 4/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 4/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 4/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Materials/PolygonPrototype_Texture_Grid_Glass_01.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Materials/PolygonPrototype_Texture_Grid_Glass_01.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Physics Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Physics Materials/Bouncy.physicMaterial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Physics Materials/Bouncy.physicMaterial.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Scripts/Enemy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Scripts/RotateCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Scripts/RotateCamera.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 4.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 4/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 4/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 4/Prefabs/Enemy.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/EnemyX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/EnemyX.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/PlayerControllerX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/PlayerControllerX.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +47,9 @@
         <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Course Library/Scripts/SpawnManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/PlayerControllerX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/EnemyX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX.cs" />
       </list>
     </option>
   </component>
@@ -111,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604756567026</updated>
       <workItem from="1604756572271" duration="191000" />
-      <workItem from="1604756810304" duration="8498000" />
+      <workItem from="1604756810304" duration="10639000" />
     </task>
     <servers />
   </component>

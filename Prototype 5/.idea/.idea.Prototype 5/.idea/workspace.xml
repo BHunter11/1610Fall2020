@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8cffb80-266c-475f-b793-09ccb9d623b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Prototype 4/.idea/.idea.Prototype 4/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 4/.idea/.idea.Prototype 4/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 4/.idea/.idea.Prototype 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 4/.idea/.idea.Prototype 4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 4/Assets/Challenge 4/Prefabs/Enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 4/Assets/Challenge 4/Prefabs/Enemy.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 4/Assets/Challenge 4/Scripts/EnemyX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 4/Assets/Challenge 4/Scripts/EnemyX.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 4/Assets/Challenge 4/Scripts/PlayerControllerX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 4/Assets/Challenge 4/Scripts/PlayerControllerX.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 4/Assets/Challenge 4/Scripts/SpawnManagerX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 4/Assets/Challenge 4/Scripts/SpawnManagerX.cs" afterDir="false" />
-    </list>
+    <list default="true" id="b8cffb80-266c-475f-b793-09ccb9d623b4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

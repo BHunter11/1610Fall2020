@@ -11,7 +11,6 @@ public class Countdown : MonoBehaviour
     IEnumerator Start()
     {
         textObj = GetComponent<Text>();
-        textObj.text = "";
         textObj.text = "5";
         var i = 5;
         while (i > 0)

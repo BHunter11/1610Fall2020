@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    // Start is called before the first frame update
+    //Create script that follows the player
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         

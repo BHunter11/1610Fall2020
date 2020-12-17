@@ -8,8 +8,10 @@ public class Countdown : MonoBehaviour
     private Text textObj;
     public float delay;
 
+   
     IEnumerator Start()
     {
+        //Counts down from 5 upon playing
         textObj = GetComponent<Text>();
         textObj.text = "5";
         var i = 5;
@@ -22,7 +24,8 @@ public class Countdown : MonoBehaviour
         textObj.text = "BEGIN!";
         yield return new WaitForSeconds(delay);
         textObj.text = "";
-
+        
+        //Insert Countdown Fader?
     }
 }
 

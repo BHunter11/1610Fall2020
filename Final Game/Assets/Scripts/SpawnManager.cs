@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SpawnManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Create Script that spawns enemies at the start and throughout the game as players are knocked off
     void Start()
     {
         

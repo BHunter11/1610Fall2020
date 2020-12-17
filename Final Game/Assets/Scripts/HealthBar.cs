@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class HealthBar : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Create Visible Health Bar in Game Display
     void Start()
     {
         

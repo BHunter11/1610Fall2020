@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class FollowPlayer : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Create Script that makes the camera follow the player
     void Start()
     {
         

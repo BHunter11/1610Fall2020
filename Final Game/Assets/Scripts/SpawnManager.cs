@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SpawnManager : MonoBehaviour
 {
-    // Create Script that spawns enemies at the start and throughout the game as players are knocked off
+    // Create Script that spawns enemies at the start and throughout the game as players are knocked off increasing in difficulty
     void Start()
     {
         
